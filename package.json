@@ -1,4 +1,5 @@
 {
+  "type":"module",
   "name": "bytebank-javascript",
   "version": "1.0.0",
   "description": "",
